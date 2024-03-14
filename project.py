@@ -50,4 +50,5 @@ print(verificationPassword(pwdInput))
 
 
 #Ce code peut être grandement amélioré que ce soit en terme de sécurité et en terme d'optimisation.
+#Amélioration: si le mot de passe fait -9 caractères alors il n'est pas validé.
 #Have a good day !
